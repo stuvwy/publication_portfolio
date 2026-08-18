@@ -24,6 +24,17 @@ followed through to bibliographic and institutional completion.
 | PUB-010 | Joint Publication on Master Thesis Results | TBD | Idea / alignment pending | Joint results review | TBD | 4 | 2 | Identify common research question with Faller, Nanikar and Svinger | Pending | Pending |
 | PUB-011 | Rain-Induced Perception Degradation and AEB Performance | TBD | Research / publication opportunity | Reproducible perception → AEB results | Medium | 5 | 3 | Establish reproducible rain → perception → AEB pipeline | Pending | Pending |
 
+## Publication Watchlist
+
+Potential publications are recorded here before sufficient evidence
+exists to create a formal portfolio item.
+
+| Topic | Potential Basis | Trigger for Portfolio Entry |
+|---|---|---|
+| ADSim Spatial Representation Intelligence | Harish research | Reproducible experimental results |
+| Infrastructure Perception / Retroreflectivity | Omid research | Initial parameter-study results |
+| HMI/UX Level-4 Public Transport | Student project | Scientific contribution and authorship clarified |
+
 ## Portfolio Rule
 
 New publication activities are prioritized by:
