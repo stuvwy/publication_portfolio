@@ -17,6 +17,7 @@ followed through to bibliographic and institutional completion.
 | PUB-003 | Project Management Book | Book | Editorial review | Springer feedback | Medium–High | 5 | 3 | Await Springer feedback | Pending | Pending |
 | PUB-004 | OSM-to-OSI Conversion for Autonomous Driving Simulation | Journal | Planned | TBD | TBD | 5 | 3 | Define publication concept and author roles | Pending | Pending |
 | PUB-005 | Reliable Identification of Visual Obstructions in Automotive Cameras | Conference | Presented / awaiting online publication | IEEE Xplore publication | Very Low | 4 | 2 | Monitor publication and institutional recognition | Pending | Pending |
+| PUB-006 | Urban Digital Twin / OSI Journal Publication | Journal | Planned / research in progress | ASAM Conference 2026-11-04/05 | High | 5 | 3 | Develop ASAM work toward journal contribution | Pending | Pending |
 
 ## Portfolio Rule
 
