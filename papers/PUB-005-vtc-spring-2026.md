@@ -1,53 +1,44 @@
-# PUB-005 — IEEE VTC2026-Spring Publication
+# PUB-005 — Reliable Identification of Visual Obstructions in Automotive Cameras
 
 ## Overview
 
-**Title:** TBD  
+**Title:** Reliable Identification of Visual Obstructions in Automotive Cameras  
 **Publication type:** Conference paper  
 **Conference:** IEEE VTC2026-Spring  
 **Location:** Nice, France  
-**Publisher:** IEEE  
-**Status:** Presented / awaiting online publication  
-**Priority:** High
+**Date:** June 2026  
+**Status:** Presented / awaiting online publication
 
 ## Authors
 
-- Tim [full name TBD]
-- Matthias Klingler
-- Stefan-Alexander Schneider
-- [additional authors TBD]
+T. Eberhardt, M. Klingler, T. Brühl, T. Sohn, T. Bader, M. Dillitzer,
+S.-A. Schneider, and W. Stork
 
-**Author order:** To be taken from final manuscript
+## Current Reference
+
+T. Eberhardt, M. Klingler, T. Brühl, T. Sohn, T. Bader, M. Dillitzer,
+S.-A. Schneider, and W. Stork,
+“Reliable Identification of Visual Obstructions in Automotive Cameras,”
+IEEE Conference, June 2026.
+
+Conference information:
+https://events.vtsociety.org/vtc2026-spring/
 
 ## Publication Status
 
-The paper was accepted and presented at IEEE VTC2026-Spring in Nice,
-France.
+The paper has been presented at IEEE VTC2026-Spring.
 
-The publication is currently not yet visible online and therefore needs
-to be monitored until the official bibliographic record is available.
-
-Required publication evidence:
-- IEEE Xplore entry
-- DOI
-- final bibliographic citation
-- proceedings information
+The final online publication record is still pending and should be
+monitored until an official IEEE Xplore entry and DOI are available.
 
 ## Institutional Relevance
 
-The publication may be relevant for teaching-load reduction.
+The publication is relevant for institutional recognition and potential
+teaching-load reduction.
 
-It should therefore remain an active portfolio item until the official
-publication record is available and the publication has been submitted
-for the corresponding institutional recognition.
-
-## Budget
-
-| Item | Amount |
-|---|---:|
-| Conference fee | Completed / TBD |
-| Travel | Completed / TBD |
-| Remaining publication cost | None expected |
+It therefore remains an active portfolio item until both the
+bibliographic record and the corresponding institutional recognition
+have been completed.
 
 ## Milestones
 
@@ -57,35 +48,31 @@ for the corresponding institutional recognition.
 | Submission | Done | 2026 |
 | Acceptance | Done | 2026 |
 | Camera-ready submission | Done | 2026 |
-| Conference presentation | Done | 2026 |
-| Proceedings publication | Pending | |
+| Conference presentation | Done | 2026-06 |
 | IEEE Xplore entry | Pending | |
 | DOI available | Pending | |
-| Bibliographic record verified | Pending | |
-| Institutional recognition / teaching-load reduction submitted | Pending | |
+| Final bibliographic record verified | Pending | |
+| Institutional recognition submitted | Pending | |
 | Institutional recognition confirmed | Pending | |
 
 ## Effort
 
 **Estimated own PI effort remaining:** Very Low
 
-No substantial scientific work is expected.
-
 Remaining PI activities:
-- monitor publication status,
-- verify bibliographic metadata,
+- monitor IEEE Xplore publication,
 - record DOI and final citation,
-- submit publication for institutional recognition,
+- submit the publication for institutional recognition,
 - track recognition / teaching-load reduction.
 
 ## Next Action
 
-**Check periodically whether the paper has become available in IEEE
-Xplore and record DOI and bibliographic information once published.**
+**Monitor IEEE Xplore for publication of the proceedings and record the
+final DOI and bibliographic citation once available.**
 
 ## Decision
 
 **Current decision:** Scientifically completed / administratively open.
 
-Keep the publication active in the portfolio until both the official
-publication record and institutional recognition have been completed.
+Keep the publication active until both bibliographic completion and
+institutional recognition have been achieved.
