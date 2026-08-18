@@ -2,7 +2,8 @@
 
 Publication portfolio for tracking milestones, deadlines, effort, budget, and priorities across planned and ongoing publications.
 
-| ID | Publication | Type | Status | Next Deadline | Own Effort | Strategic Value | PI Attention | Next Action |
+| ID | Publication | Type | Status | Next Deadline | Own Effort | Strategic Value | PI Attention | Next Action | Bibliographic record / DOI verified |
+| Institutional recognition completed |
 |---|---|---|---|---|---|---:|---:|---|
 | PUB-001 | ROAD 2024 Journal Publication | Journal | Concept | 2026-10-31 (APC discount) | TBD | 5 | 5 | Define publication concept |
 | PUB-002 | LLM-Based Test Case Generation for ADAS | Conference | Accepted | TBD | Low | 4 | 2 | Complete publication process |
