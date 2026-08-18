@@ -7,6 +7,7 @@ Publication portfolio for tracking milestones, deadlines, effort, budget, and pr
 | PUB-001 | ROAD 2024 Journal Publication | Journal | Concept | 2026-10-31 (APC discount) | TBD | 5 | 5 | Define publication concept |
 | PUB-002 | LLM-Based Test Case Generation for ADAS | Conference | Accepted | TBD | Low | 4 | 2 | Complete publication process |
 | PUB-003 | Project Management Book | Book | Editorial review | TBD | Medium–High | 5 | 3 | Await Springer feedback |
+| PUB-004 | OSM-to-OSI Conversion for Autonomous Driving Simulation | Journal | Planned | TBD | TBD | 5 | 3 | Define publication concept and author roles |
 
 # Publication Portfolio
 
