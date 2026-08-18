@@ -8,6 +8,7 @@ Publication portfolio for tracking milestones, deadlines, effort, budget, and pr
 | PUB-002 | LLM-Based Test Case Generation for ADAS | Conference | Accepted | TBD | Low | 4 | 2 | Complete publication process |
 | PUB-003 | Project Management Book | Book | Editorial review | TBD | Medium–High | 5 | 3 | Await Springer feedback |
 | PUB-004 | OSM-to-OSI Conversion for Autonomous Driving Simulation | Journal | Planned | TBD | TBD | 5 | 3 | Define publication concept and author roles |
+| PUB-005 | IEEE VTC2026-Spring Publication | Conference | Awaiting online publication | IEEE Xplore / DOI pending | Very Low | 4 | 2 | Monitor publication and institutional recognition |
 
 # Publication Portfolio
 
