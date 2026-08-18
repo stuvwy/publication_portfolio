@@ -4,10 +4,13 @@ Publication portfolio for tracking milestones, deadlines, effort, budget, and pr
 
 # Publication Portfolio
 
-| ID | Publication | Target | Status | Next Deadline | Own Effort | Priority | Next Action |
-|---|---|---|---|---|---:|---|---|
-| PUB-001 | ROAD 2024 Journal Publication | MDPI Electronics | Concept | 2026-10-31 (APC discount) | TBD | High | Define publication concept |
-| PUB-002 | LLM-Based Test Case Generation for ADAS | ICAITD 2026 | Accepted | TBD | Low | Complete publication process |
+# Publication Portfolio
+
+| ID | Publication | Type | Status | Next Deadline | Own Effort | Strategic Value | PI Attention | Next Action |
+|---|---|---|---|---|---|---:|---:|---|
+| PUB-001 | ROAD 2024 Journal Publication | Journal | Concept | 2026-10-31 (APC discount) | TBD | 5 | 5 | Define publication concept |
+| PUB-002 | LLM-Based Test Case Generation for ADAS | Conference | Accepted | TBD | Low | 4 | 2 | Complete publication process |
+| PUB-003 | Project Management Book | Book | Editorial review | TBD | Medium–High | 5 | 3 | Await Springer feedback |
 
 # Publication Portfolio
 
