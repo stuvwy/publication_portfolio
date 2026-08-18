@@ -22,6 +22,7 @@ followed through to bibliographic and institutional completion.
 | PUB-008 | 20 Years of VASE | TBD | Planned / concept development | 2026-11-16 (Validas discussion) | TBD | 5 | 3 | Prepare VASE publication concept for Validas visit | Pending | Pending |
 | PUB-009 | LISA+ Integration into ADSim | TBD | Idea / alignment pending | Alignment with Fichtl | TBD | 4 | 2 | Revisit publication concept with Fichtl | Pending | Pending |
 | PUB-010 | Joint Publication on Master Thesis Results | TBD | Idea / alignment pending | Joint results review | TBD | 4 | 2 | Identify common research question with Faller, Nanikar and Svinger | Pending | Pending |
+| PUB-011 | Rain-Induced Perception Degradation and AEB Performance | TBD | Research / publication opportunity | Reproducible perception → AEB results | Medium | 5 | 3 | Establish reproducible rain → perception → AEB pipeline | Pending | Pending |
 
 ## Portfolio Rule
 
