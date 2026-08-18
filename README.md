@@ -19,6 +19,7 @@ followed through to bibliographic and institutional completion.
 | PUB-005 | Reliable Identification of Visual Obstructions in Automotive Cameras | Conference | Presented / awaiting online publication | IEEE Xplore publication | Very Low | 4 | 2 | Monitor publication and institutional recognition | Pending | Pending |
 | PUB-006 | Urban Digital Twin / OSI Journal Publication | Journal | Planned / research in progress | ASAM Conference 2026-11-04/05 | High | 5 | 3 | Develop ASAM work toward journal contribution | Pending | Pending |
 | PUB-007 | Requirements Derived from Bauer's Master's Thesis | TBD | Idea / alignment pending | Author alignment | TBD | 4 | 2 | Discuss publication concept with prospective authors | Pending | Pending |
+| PUB-008 | 20 Years of VASE | TBD | Planned / concept development | 2026-11-16 (Validas discussion) | TBD | 5 | 3 | Prepare VASE publication concept for Validas visit | Pending | Pending |
 
 ## Portfolio Rule
 
