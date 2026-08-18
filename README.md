@@ -2,9 +2,8 @@
 
 Publication portfolio for tracking milestones, deadlines, effort, budget, and priorities across planned and ongoing publications.
 
-| ID | Publication | Type | Status | Next Deadline | Own Effort | Strategic Value | PI Attention | Next Action | Bibliographic record / DOI verified |
-| Institutional recognition completed |
-|---|---|---|---|---|---|---:|---:|---|
+| ID | Publication | Type | Status | Next Deadline | Own Effort | Strategic Value | PI Attention | Next Action | Bibliographic record / DOI verified | Institutional recognition completed |
+|---|---|---|---|---|---|---:|---:|---|---|---|
 | PUB-001 | ROAD 2024 Journal Publication | Journal | Concept | 2026-10-31 (APC discount) | TBD | 5 | 5 | Define publication concept |
 | PUB-002 | LLM-Based Test Case Generation for ADAS | Conference | Accepted | TBD | Low | 4 | 2 | Complete publication process |
 | PUB-003 | Project Management Book | Book | Editorial review | TBD | Medium–High | 5 | 3 | Await Springer feedback |
@@ -61,6 +60,21 @@ Investigator's (PI) own attention.
 | 3 | Prepare — foreseeable PI work, but not immediately critical |
 | 4 | Active — substantial PI contribution currently required |
 | 5 | Immediate — PI action is currently critical due to deadline, dependency, or opportunity |
+
+## Institutional Recognition
+
+A publication is not considered administratively completed when it has
+only been accepted or presented.
+
+Where applicable, the portfolio tracks the publication until:
+
+1. the official bibliographic record and DOI are available,
+2. the publication has been submitted for institutional recognition,
+3. the corresponding recognition or teaching-load reduction has been
+   confirmed.
+
+This prevents completed publications from being overlooked for
+institutional reporting or teaching-load reduction.
 
 ### Own Effort
 
